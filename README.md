@@ -3,7 +3,7 @@
 ![Paper Badge](https://img.shields.io/badge/Paper-SolarHider-blue)
 ![Version Badge](https://img.shields.io/badge/Version-1.0.0-green)
 
-**SolarHider** is a Spigot plugin that gives you full control over commands, permissions, and tab completions with ease. Perfect for admins who want to keep their server clean and organized, with no hassle.
+**SolarHider** is a Paper plugin that gives you full control over commands, permissions, and tab completions with ease. Perfect for admins who want to keep their server clean and organized, with no hassle.
 
 ---
 
