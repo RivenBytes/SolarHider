@@ -1,0 +1,5 @@
+me\solar\solarHider\listeners\CommandListener.class
+me\solar\solarHider\SolarHider.class
+me\solar\solarHider\listeners\TabCompleteListener.class
+me\solar\solarHider\commands\SolarHiderCommand.class
+me\solar\solarHider\utils\ConfigManager.class

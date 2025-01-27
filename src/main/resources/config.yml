@@ -1,0 +1,35 @@
+MESSAGES:
+  NO-PERMISSION: "&CYOU DO NOT HAVE PERMISSION TO USE THIS COMMAND!"
+  RELOAD-SUCCESS: "&ACONFIGURATION SUCCESSFULLY RELOADED!"
+  UNKNOWN-COMMAND: "&CCOMMAND NOT FOUND!"
+  NO-COMMAND: "&CTHIS COMMAND DOES NOT EXIST!"
+
+GROUPS:
+  GROUP1:
+    PERMISSION: "SOLARHIDER.GROUP1.PERMISSION"
+    COMMANDS:
+      - warp
+      - spawn
+    TABCOMPLETE:
+      - warp
+      - spawn
+
+  GROUP2:
+    PERMISSION: "SOLARHIDER.GROUP2.PERMISSION"
+    COMMANDS:
+      - fly
+      - heal
+    TABCOMPLETE:
+      - fly
+      - heal
+
+  ADMIN:
+    PERMISSION: "SOLARHIDER.ADMIN.PERMISSION"
+    COMMANDS:
+      - ban
+      - kick
+      - mute
+    TABCOMPLETE:
+      - ban
+      - kick
+      - mute

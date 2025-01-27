@@ -1,0 +1,17 @@
+name: SolarHider
+version: '1.0'
+main: me.solar.solarHider.SolarHider
+prefix: SolarCORE
+load: STARTUP
+authors: [ KiloSheet, Riven ]
+description: Guard your server with enchanted precision.
+
+commands:
+  solarhider:
+    description: "Manage SolarHider settings."
+    usage: "/solarhider reload"
+    permission: SOLARHIDER.RELOAD
+permissions:
+  SOLARHIDER.RELOAD:
+    description: "Allows reloading the config."
+    default: op
