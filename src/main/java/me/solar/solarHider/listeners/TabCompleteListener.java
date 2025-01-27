@@ -39,7 +39,7 @@ public class TabCompleteListener implements Listener {
         if (isRootCommand) {
             //
             //
-            //  to ai for fixing bug
+            // credits to ai for fixing bug
             validCompletions = allowedCommands.stream()
                     .filter(cmd -> plugin.getServer().getPluginCommand(cmd) != null)
                     .map(cmd -> "/" + cmd)
